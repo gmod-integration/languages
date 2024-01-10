@@ -146,5 +146,6 @@
   "help_content_verification": "Todo",
   "help_content_default": "Todo",
   "leaderboard": "Leaderboard of {1}",
-  "leaderboard_desc": "Search by {1}, page {2}/{3}"
+  "leaderboard_desc": "Search by {1}, page {2}/{3}",
+  "missing_permission": "This action require the permission `{1}`"
 }
