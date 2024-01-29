@@ -149,5 +149,6 @@
   "leaderboard_desc": "Search by {1}, page {2}/{3}",
   "missing_permission": "This action require the permission `{1}`",
   "rcon_steam_link": "For security reasons, you need to verify your steam account before being able to use this command.",
-  "rcon_superadmin": "You need to be superadmin on the server to use this command."
+  "rcon_superadmin": "You need to be superadmin on the server to use this command.",
+  "verify_not_enabled": "The verification is not enabled on this server. Activate it on {1}"
 }
